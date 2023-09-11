@@ -1,0 +1,51 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 120px;
+    align-items: center;
+}
+
+.nav-items {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    /* text-decoration: none; */
+    list-style: none;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-button {
+    width: 100px;
+    height: 35px;
+    font-size: 15px;
+    border: none;
+    background-color: cyan;
+    border: none;
+    border-radius: 8px;
+}
+
+.Jerin {
+    background-image: url('../images/hedar.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+   
+}
+
+.kom-dami {
+    margin-left: 120px;
+    color: white;
+   padding-top: 50px;
+}
+.div-button{
+    background-color: blue;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 8px;
+}
