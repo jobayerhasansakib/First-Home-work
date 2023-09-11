@@ -26,6 +26,7 @@ a {
     background-color: cyan;
     border: none;
     border-radius: 8px;
+    cursor: pointer;
 }
 
 .Jerin {
@@ -48,4 +49,5 @@ a {
     padding: 10px 15px;
     border: none;
     border-radius: 8px;
+    cursor: pointer;
 }
